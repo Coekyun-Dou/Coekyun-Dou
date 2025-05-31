@@ -4,7 +4,7 @@
 ------
 
 <a href="https://github.com/Coekyun-Dou">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coekyun-Dou&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Coekyun-Dou&show_icons=true">
 </a>
 
 - 🔭 I’m currently major in **Internet of Things Engineering**
