@@ -7,6 +7,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Coekyun-Dou&show_icons=true">
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coekyun-Dou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently major in **Internet of Things Engineering**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
