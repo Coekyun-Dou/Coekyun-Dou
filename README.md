@@ -1,4 +1,4 @@
-## Hi there 👋
+## Coucou Les Amis! 👋
 
 <!--
 **Coekyun-Dou/Coekyun-Dou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
