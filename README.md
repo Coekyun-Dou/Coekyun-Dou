@@ -16,7 +16,7 @@
 - 📫 How to reach me **less_duuuzx@163.com**
 
 <a href="https://github.com/Coekyun-Dou">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Coekyun-Dou&show_icons=true">
+<img align="right" src="[https://github-readme-stats.vercel.app/api?username=Coekyun-Dou&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)">
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
