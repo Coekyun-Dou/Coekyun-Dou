@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felxi Du</h1>
+<h1 align="center">Hi 👋, I'm Felix Du</h1>
 <h3 align="center">唯有文字能担此任，宣告生命曾经在场</h3>
 
 ------
