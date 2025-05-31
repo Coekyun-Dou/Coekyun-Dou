@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felxi Du</h1>
 <h3 align="center">A student from Guangdong China</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coekyun-dou" alt="coekyun-dou" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coekyun-dou=ryo-ma&title = Follower,Commit" alt="coekyun-dou" /></a> </p>
 
 - 🔭 I’m currently major in **Internet of Things Engineering**
 
