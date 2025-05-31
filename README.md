@@ -2,7 +2,7 @@
 <h3 align="center">唯有文字能担此任，宣告生命曾经在场</h3>
 
 ------
-test
+
 <a href="https://github.com/Coekyun-Dou">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Coekyun-Dou&show_icons=true">
 </a>
