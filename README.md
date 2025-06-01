@@ -4,7 +4,7 @@
 ------
 
 <a href="https://github.com/Coekyun-Dou">
-<img align="right" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coekyun-Dou&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)">
+<img align="right" src="(https://github-readme-stats.vercel.app/api?username=Coekyun-Dou&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)">
 </a>
 
 
