@@ -3,9 +3,7 @@
 
 ------
 
-<a href="https://github.com/Coekyun-Dou/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=Coekyun-Dou&show_icons=true">
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coekyun-Dou)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently major in **Internet of Things Engineering**
