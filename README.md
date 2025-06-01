@@ -8,7 +8,6 @@
 </a>
 
 
-
 - 🔭 I’m currently major in **Internet of Things Engineering**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
