@@ -4,8 +4,10 @@
 ------
 
 <a href="https://github.com/Coekyun-Dou">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Coekyun-Dou&show_icons=true">
+<img align="right" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coekyun-Dou&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)">
 </a>
+
+
 
 - 🔭 I’m currently major in **Internet of Things Engineering**
 
@@ -22,6 +24,12 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coekyun-Dou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 这个是显示常用的语言
+-->
+
+<!--
+<a href="https://github.com/Coekyun-Dou">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Coekyun-Dou&show_icons=true">
+</a>
 -->
 
 <!--
