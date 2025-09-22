@@ -1,5 +1,32 @@
 <h1 align="center">Hi 👋, I'm Felix Du</h1>
-<h1 align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Felix.;A+Front-End+Developer.;An+Open+Source+Contributor.)</h1>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      text-align: center;
+    }
+  </style>
+  <title>Centered Typing SVG</title>
+</head>
+<body>
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Ayang.;A+Front-End+Developer.;An+Open+Source+Contributor." alt="Typing SVG">
+  </h1>
+</body>
+</html>
+
 
 <h3 align="center">唯有文字能担此任，宣告生命曾经在场</h3>
 
