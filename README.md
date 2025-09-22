@@ -10,6 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Welcome+to+my+GitHub+homepage.;I'm+a+student+from+GDOU(CSE).;An+Open+Source+Contributor.;" alt="Typing SVG">
 </body>
 </html>
+
 ------
 
 <a href="https://github.com/Coekyun-Dou">
