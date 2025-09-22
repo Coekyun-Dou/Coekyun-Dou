@@ -8,7 +8,7 @@
 </head>
 <body>
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Ayang.;A+Front-End+Developer.;An+Open+Source+Contributor." alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Welcome+to+my+GitHub+homepage.;A+Front-End+Developer.;An+Open+Source+Contributor." alt="Typing SVG">
   </h1>
 </body>
 </html>
@@ -33,7 +33,6 @@
 ------
 
 ### 🐍 Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coekyun-Dou/Coekyun-Dou/master/assets/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coekyun-Dou/Coekyun-Dou/master/assets/github-contribution-grid-snake.svg">
