@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning <strong>Machine Learning and Deep Learning</strong>
 - 💬 My hobbies: <strong>🏀 basketball 📔 reading 🎞️ watching movie</strong>
 - ⚽  My favorite football club: <strong>🏆Liverpool FC</strong>
-- 📫 How to reach me:<strong>less_duuuzx@163.com</strong>
+- 📫 How to reach me: <strong>less_duuuzx@163.com</strong>
 
 
 
