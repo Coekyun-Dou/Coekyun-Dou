@@ -33,3 +33,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coekyun-Dou/Coekyun-Dou/refs/heads/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Coekyun-Dou/Coekyun-Dou/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
+
+![](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
+
