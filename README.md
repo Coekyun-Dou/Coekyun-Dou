@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Welcome+to+my+GitHub+homepage.;I'm+a+student+from+GDOU(CSE).;An+Open+Source+Contributor.;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Welcome+to+my+GitHub+homepage.;I'm+a+student+from+GDOU(CSE).;" alt="Typing SVG">
 </body>
 </html>
 
