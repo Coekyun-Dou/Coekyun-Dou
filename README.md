@@ -18,7 +18,7 @@
 </a>
 
 - 🔭 I’m currently major in <strong>Internet of Things Engineering</strong>
-- 🌱 I’m currently learning <strong>Machine Learning and Deep Learning</strong>
+- 🌱 Learning <strong>Machine Learning and Deep Learning</strong>
 - 💬 My hobbies: <strong>🏃‍♂️: sports 📔 reading 🎞️ watching movie</strong>
 - 🏀 My favorite NBA team: <strong> 💜💛LA Lakers 🏆x 17 </strong>
 - ⚽  My favorite football club: <strong> 🏆Liverpool FC </strong>
