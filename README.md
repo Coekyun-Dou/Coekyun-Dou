@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0A2540,50:0B5ED7,100:4DA3FF&text=Welcome%20to%20my%20homepage&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&desc=Focused%20%7C%20Efficiency%20%7C%20Brave&descAlign=50&descAlignY=58" alt="header" />
 </div>
-<h1 align="center">Hi, I'm Felix Du</h1>
 <p align="center"><em>"唯有文字能担此任，宣告生命曾经在场"</em></p>
 
 <p align="center">
