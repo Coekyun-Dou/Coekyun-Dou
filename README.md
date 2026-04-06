@@ -12,10 +12,10 @@
 </html>
 
 ------
-<a href="https://github.com/Coekyun-Dou">
+<body>
   [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=Coekyun-Dou&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coekyun-Dou&hide=css,html&layout=compact&langs_count=8)
-</a>
+</body>
 
 
 - 🔭 I’m currently major in <strong>Internet of Things Engineering</strong>
