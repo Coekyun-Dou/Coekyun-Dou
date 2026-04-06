@@ -4,7 +4,7 @@
 <p align="center"><em>"唯有文字能担此任，宣告生命曾经在场"</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&center=true&vCenter=true&width=620&color=0B5ED7&lines=Hi+I'm+Felix+Du;IoT+Engineering+Student+%40+GDOU+CSE;Learning+Machine+Learning+%26+Deep+Learning;Keep+building+with+clarity+and+discipline" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&center=true&vCenter=true&width=620&color=0B5ED7&lines=Hi+I'm+Felix+Du;IoT+Engineering+Student+@+GDOU+CSE;Learning+Machine+Learning+&+Deep+Learning;Keep+building+with+clarity+and+discipline" alt="Typing SVG" />
 </p>
 
 <p align="center">
