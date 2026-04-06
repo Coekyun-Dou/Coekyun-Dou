@@ -42,8 +42,6 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
 </p>
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0A2540,50:0B5ED7,100:4DA3FF" alt="footer" />
 </div>
