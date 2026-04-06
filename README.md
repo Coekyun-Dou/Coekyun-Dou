@@ -18,18 +18,18 @@
 </a>
 -->
 
+<!--
+<div align="left">
 - 🔭 I’m currently major in <strong>IoT Engineering</strong>
 - 🌱 Learning <strong>Machine Learning and Deep Learning</strong>
 - 💬 My hobbies: <strong>🏃‍♂️: sports 📔 books 🎞️  movie</strong>
 - 🏀 My favorite NBA team: <strong> 💜💛LA Lakers 🏆x 17 </strong>
 - ⚽  My favorite football club: <strong> 🏆Liverpool FC </strong>
 - 📫 How to reach me: <strong>less_duuuzx@163.com</strong>
+</div>
+-->
 
-<a href="https://github.com/Coekyun-Dou">
-<img align="right" src="[https://github-readme-stats.vercel.app/api?username=Coekyun-Dou&show_icons=true]">
-</a>
-
-<div align="right">
+<div align="center">
   <a href="#">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Coekyun-Dou&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Readme Card" />
   </a>
