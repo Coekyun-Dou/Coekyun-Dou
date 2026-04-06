@@ -18,16 +18,14 @@
 </a>
 -->
 
-<!--
-<div align="left">
+
 - 🔭 I’m currently major in <strong>IoT Engineering</strong>
 - 🌱 Learning <strong>Machine Learning and Deep Learning</strong>
 - 💬 My hobbies: <strong>🏃‍♂️: sports 📔 books 🎞️  movie</strong>
 - 🏀 My favorite NBA team: <strong> 💜💛LA Lakers 🏆x 17 </strong>
 - ⚽  My favorite football club: <strong> 🏆Liverpool FC </strong>
 - 📫 How to reach me: <strong>less_duuuzx@163.com</strong>
-</div>
--->
+
 
 <div align="center">
   <a href="#">
