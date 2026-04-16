@@ -49,5 +49,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0A2540,50:0B5ED7,100:4DA3FF" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0A2540,50:0B5ED7,100:4DA3FF&text=Copyright%C2%A9%202026%20Felix%20Du&fontAlign=50&fontAlignY=85&fontSize=14&fontColor=d3d3d3" alt="footer" />
 </div>
