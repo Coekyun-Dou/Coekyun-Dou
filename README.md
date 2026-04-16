@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<h2 align="center" style="color:#0B5ED7;">Languages & Tools</h2>
+<h2 align="center">Languages & Tools</h2>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
@@ -42,6 +42,8 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
 </p>
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0A2540,50:0B5ED7,100:4DA3FF" alt="footer" />
 </div>
